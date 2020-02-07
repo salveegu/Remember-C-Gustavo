@@ -1,0 +1,10 @@
+# include <stdio.h>   // cabeçalho básico em c
+
+ int main ()
+
+ {
+   int x,y;
+   scanf("%d %d",&x,&y);
+   printf("Soma: %d \n ",x+y);
+
+ }
